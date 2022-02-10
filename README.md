@@ -6,6 +6,5 @@ MERRA2 GMI output is available with an account on the discover server or through
 Files included here are:
 1. CreateTrainingSet_MERRA2GMI.py: Creates the training dataset.  Directories will need to be modified by the user.
 2. CreateParameterization.py: Creates a sample parameterization of OH with XGBoost using files 3 and 4.
-3. SampleTrainingSet.dat: A sample training set of inputs for July that can be input into CreateParameterization.py
-4. SampleTrainingTargets.dat: The training targets (OH) that correspond to the SampleTrainingSet.dat Input values.
-5. SampleParameterization_MO7.joblib.dat: A parameterization of OH for July that was used and described in Anderson et al (2022). 
+
+Contact daniel.c.anderson (at sign) nasa.gov with any questions.
